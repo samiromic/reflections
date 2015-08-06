@@ -2,3 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
 You need repository for tracking changes been made to files.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is different because you can easily experiment on data without commits and you can easily reset files from it.
+How can you use the staging area to make sure you have one commit per logical change?
+You can easily accomplish it by adding or reseting files on staging area.
