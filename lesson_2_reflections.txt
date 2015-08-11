@@ -8,3 +8,5 @@ What are some situation when branches would be helpful in keeping your history o
 In situtations when you need to have different or updated version of same program it's useful to work on different branches.
 How do the diagrams help you visualize the branch structure?
 Diagrams help because they allow to easily track commits through tree.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches together is a branch with commits from both branches. We represent it in the diagram to easily track changes in branch.
